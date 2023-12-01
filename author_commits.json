@@ -1,0 +1,72 @@
+{
+    "John Doe": {
+        "total_changes": 13,
+        "commits": [
+            "feat: Add new feature",
+            "feat: Implement login functionality",
+            "refactor: Optimize database queries",
+            "docs: Update README file",
+            "fix: Resolve CSS conflicts",
+            "fix: Handle null values in search",
+            "feat: Add pagination to results",
+            "test: Add unit tests for pagination",
+            "docs: Update license information",
+            "docs: Update contribution guidelines",
+            "docs: Update API documentation",
+            "docs: Update API usage guide",
+            "docs: Update contribution guidelines"
+        ]
+    },
+    "Alice Smith": {
+        "total_changes": 12,
+        "commits": [
+            "fix: Fix bug in feature",
+            "test: Add unit tests for authentication",
+            "refactor: Restructure project folders",
+            "docs: Add code examples to documentation",
+            "docs: Update installation guide",
+            "fix: Handle empty result set",
+            "feat: Add password reset functionality",
+            "refactor: Rename variables for clarity",
+            "refactor: Optimize database queries",
+            "refactor: Simplify code logic",
+            "refactor: Extract reusable components",
+            "refactor: Optimize database queries"
+        ]
+    },
+    "Mark Thompson": {
+        "total_changes": 14,
+        "commits": [
+            "refactor: Refactor code",
+            "docs: Update API documentation",
+            "fix: Handle error in user profile",
+            "test: Add integration tests for registration",
+            "feat: Implement search functionality",
+            "test: Add performance tests",
+            "refactor: Simplify code logic",
+            "docs: Update API endpoints",
+            "test: Add integration tests for file upload",
+            "fix: Handle cache expiration",
+            "fix: Handle session timeouts",
+            "fix: Handle error in user settings",
+            "fix: Resolve issue with localization",
+            "fix: Handle reporting errors"
+        ]
+    },
+    "Jane Johnson": {
+        "total_changes": 11,
+        "commits": [
+            "feat: Add validation to form",
+            "feat: Implement user profile page",
+            "feat: Add email notification",
+            "refactor: Improve code readability",
+            "refactor: Extract common functions",
+            "docs: Update usage examples",
+            "fix: Handle file size limit",
+            "feat: Implement caching mechanism",
+            "feat: Add login history feature",
+            "feat: Implement user settings page",
+            "feat: Add reporting functionality"
+        ]
+    }
+}
